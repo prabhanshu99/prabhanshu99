@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prabhanshu Narnaware</h1>
 - 🔭 I’m currently working on some real world projects
 
-- 🌱 I’m currently learning **Web3 & Devops**
+-  I’m currently learning **Web3 & Devops**
 
-- 📫 How to reach me **mrprabhanshu@gmail.com**
+-  How to reach me **mrprabhanshu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
